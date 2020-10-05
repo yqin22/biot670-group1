@@ -1,1 +1,3 @@
-# biot670-group1
+# UMGC biot670-group1b project
+# Group contributors:Anuj Kashyap,Jessica Noya, Zek Uzezi, Laura Qin, Roman Shikov
+# Build a fusion gene visualizer that can take BAM file as input and show two choromosomes alignments simutaneouly
